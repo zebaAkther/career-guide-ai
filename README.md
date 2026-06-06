@@ -2,6 +2,8 @@
 
 An AI-powered career guidance platform that helps students and professionals discover suitable career paths through psychometric assessments, aptitude analysis, AI-powered recommendations, and interactive career exploration tools.
 
+<img width="1438" height="860" alt="Screenshot 2026-06-06 at 2 57 12 PM" src="https://github.com/user-attachments/assets/1108b6d7-e5b3-4a8d-b184-350cca0605bb" />
+
 ## 🌟 Features
 
 ### 🎯 Psychometric Assessment
